@@ -8,7 +8,7 @@ $(document).ready(function () {
         pauseOnFocus: true,
         pauseOnHover: true,
         pauseOnDotsHover: true,
-        waitForAnimate: false,
+        waitForAnimate: true,
         touchThreshold: 10
     });
 });
